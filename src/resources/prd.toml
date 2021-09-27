@@ -1,0 +1,5 @@
+[database.reader]
+hostname = "localhost_prd"
+username = "username_prd"
+password = "password_prd"
+dbname = "test_prd"
